@@ -7,7 +7,7 @@ Neural Style Transfer is an artistic technique that uses deep learning to combin
 
 <img src="images/Overview.JPG?raw=true" />
 
-This repository contains a Python script for performing Neural Style Transfer using TensorFlow. The script employs the VGG19 model and the Streamlit library to create a straightforward web application for applying artistic styles to images.
+This repository contains a Python script for performing Neural Style Transfer using TensorFlow. The script employs the VGG19 model for extracting features and then applies artistic styles to images.
 
 ## Overview
 
